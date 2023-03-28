@@ -5,4 +5,8 @@ To run project execute:
 
 To recompile and run execute:
 <code>./cmp</code>
-![obraz](https://user-images.githubusercontent.com/105075635/228289789-e70183e3-b77c-4406-ad90-cd7b472c827a.png)
+
+<br><br>
+Example output: <br>
+![obraz](https://user-images.githubusercontent.com/105075635/228290036-e43d41a5-c22e-45fd-b51a-11490f352177.png)
+
