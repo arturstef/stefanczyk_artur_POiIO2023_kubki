@@ -1,0 +1,1 @@
+g++ main.cpp Tsubstance.cpp Tcub.cpp -o main.out;./main.out
